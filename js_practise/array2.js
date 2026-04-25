@@ -19,3 +19,6 @@ console.log(arr21);
 
 console.log(Array.isArray("Yusuf"))   // returns false because it checks that its not an array.
 console.log(Array.from("Yusuf"))   // from converts the string into individual letter array.
+
+
+
